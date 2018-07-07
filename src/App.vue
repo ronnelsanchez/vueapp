@@ -4,10 +4,18 @@
 
 <script>
 export default {
-  name: 'app'
+  name: 'App'
 }
 </script>
 
-<style lang="sass">
-
+<style>
+  /* Import Font Awesome Icons Set */
+  $fa-font-path: '~font-awesome/fonts/';
+  @import '~font-awesome/css/font-awesome.min.css';
+  /* Import Bootstrap Vue Styles */
+  @import '~bootstrap-vue/dist/bootstrap-vue.css';
+</style>
+<style lang="scss">
+  /*Import Main styles for this application*/
+  @import './scss/style';
 </style>
