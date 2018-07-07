@@ -1,0 +1,31 @@
+// Here you can add other styles
+
+@font-face {
+	font-family: 'Circular Std Book';
+	src: url('../src/assets/fonts/Circular/CircularStd-Book.eot');
+	src: url('../src/assets/fonts/Circular/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+		url('../src/assets/fonts/Circular/CircularStd-Book.woff') format('woff'),
+		url('../src/assets/fonts/Circular/CircularStd-Book.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circular Std Book';
+	src: url('../src/assets/fonts/Circular/CircularStd-Bold.eot');
+	src: url('../src/assets/fonts/Circular/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../src/assets/fonts/Circular/CircularStd-Bold.woff') format('woff'),
+		url('../src/assets/fonts/Circular/CircularStd-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circular Std Book';
+	src: url('../src/assets/fonts/Circular/CircularStd-Black.eot');
+	src: url('../src/assets/fonts/Circular/CircularStd-Black.eot?#iefix') format('embedded-opentype'),
+		url('../src/assets/fonts/Circular/CircularStd-Black.woff') format('woff'),
+		url('../src/assets/fonts/Circular/CircularStd-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}

@@ -1,9 +1,14 @@
 <template>
-<b-container>
+
   <b-row>
-    <h1>About</h1>
+    <b-col>
+      <h1>
+        About
+      </h1>
+    </b-col>
   </b-row>
-</b-container></template>
+
+</template>
 
 <script>
 export default {

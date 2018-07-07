@@ -1,0 +1,19 @@
+.container_welcome {
+  padding: 2rem 0;
+  height: calc(100vh - 60vh);
+  align-items: center;
+  display: flex;
+  min-height: min-content;
+
+  .welcome_content {
+    font-size: $h1-font-size;
+    p {
+      color: $font-color-secondary;
+    }
+  }
+}
+
+.footer {
+  font-size: .875rem;
+  color: $font-color-light;
+}
