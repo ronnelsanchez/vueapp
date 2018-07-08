@@ -1,5 +1,11 @@
+::selection {
+    color: #fff;
+    color: rgba(255, 255, 255, 0.9);
+    background: $primary;
+}
+
 .container_welcome {
-  padding: 2rem 0;
+  padding: 2rem 0 4rem;
   height: calc(100vh - 60vh);
   align-items: center;
   display: flex;
@@ -14,6 +20,18 @@
 }
 
 .footer {
+  padding-top: 4rem;
+  margin-bottom: 2rem;
   font-size: .875rem;
   color: $font-color-light;
+}
+
+@include media-breakpoint-down(md) {
+  .container_welcome {
+    .welcome_content {
+      h1,p {
+        font-size: 2rem;
+      }
+    }
+  }
 }

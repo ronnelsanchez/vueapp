@@ -5,7 +5,7 @@
     <b-row class="header-content">
       <div class="brand">
         <b-link to="/" exact>
-          <img src="../assets/img/rs.svg" height="50" alt="" class="logo">
+          <img src="../assets/img/rs.svg" alt="" class="logo">
         </b-link>
       </div>
       <div class="container_top-nav">
