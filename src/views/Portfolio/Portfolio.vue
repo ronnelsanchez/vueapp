@@ -82,16 +82,16 @@
             <span class="label">Tool Used</span>
             <ul class="tools">
               <li>
-                <i class="devicon-photoshop-plain"></i>
+                <i class="devicon-photoshop-plain" v-b-tooltip title="Adobe Photoshop"></i>
               </li>
               <li>
-                <i class="devicon-photoshop-plain"></i>
+                <i class="devicon-illustrator-plain" v-b-tooltip title="Adobe Illustrator"></i>
               </li>
               <li>
-                <i class="devicon-photoshop-plain"></i>
+                <i class="devicon-android-plain" v-b-tooltip title="Android Material Design Guidelines"></i>
               </li>
               <li>
-                <i class="devicon-photoshop-plain"></i>
+                <i class="devicon-apple-plain" v-b-tooltip title="iOS Human Interface Guidelines"></i>
               </li>
             </ul>
           </div>
