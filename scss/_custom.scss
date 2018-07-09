@@ -4,6 +4,10 @@
     background: $primary;
 }
 
+main {
+  padding-top: 100px;
+}
+
 .container_welcome {
   padding: 2rem 0 4rem;
   height: calc(100vh - 60vh);
@@ -33,7 +37,7 @@
         font-size: 2rem;
       }
       h2 {
-        font-size: 1.5rem;        
+        font-size: 1.5rem;
       }
     }
   }

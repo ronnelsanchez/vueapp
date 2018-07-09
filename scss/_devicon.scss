@@ -203,6 +203,15 @@ $devicon-font: "devicon" !default;
   content: "\e60e";
 }
 
+.devicon-android-plain {
+  &:hover {
+    &:before {
+      content: "\e60e";
+      	color: #A4C439;
+    }
+  }
+}
+
 .devicon-angularjs-plain-wordmark:before {
   content: "\e61c";
 }
@@ -221,6 +230,15 @@ $devicon-font: "devicon" !default;
 
 .devicon-apple-original:before, .devicon-apple-plain:before {
   content: "\e622";
+}
+
+.devicon-apple-original, .devicon-apple-plain {
+  &:hover {
+    &:before {
+      content: "\e622";
+      	color: #000000;
+    }
+  }
 }
 
 .devicon-atom-original-wordmark:before, .devicon-atom-plain-wordmark:before {
@@ -383,6 +401,15 @@ $devicon-font: "devicon" !default;
   content: "\e7fa";
 }
 
+.devicon-illustrator-plain {
+  &:hover {
+    &:before {
+      content: "\e7fa";
+      	color: #faa625;
+    }
+  }
+}
+
 .devicon-inkscape-plain-wordmark:before {
   content: "\e834";
 }
@@ -476,8 +503,16 @@ $devicon-font: "devicon" !default;
 }
 
 .devicon-photoshop-plain:before {
-  font-family: $devicon-font;
   content: "\eb6d";
+}
+
+.devicon-photoshop-plain {
+  &:hover {
+    &:before {
+      content: "\eb6d";
+      	color: #80b5e2;
+    }
+  }
 }
 
 .devicon-php-plain:before {
