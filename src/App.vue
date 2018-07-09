@@ -8,6 +8,9 @@ export default {
 }
 </script>
 
+<style>
+  @import './assets/devicon/devicon.css';
+</style>
 <style lang="scss">
   /*Import Main styles for this application*/
   @import './scss/style';

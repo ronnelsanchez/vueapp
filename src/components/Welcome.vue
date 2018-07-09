@@ -2,7 +2,7 @@
   <div class="container_welcome">
     <div class="welcome_content">
       <h1>Hello, I'm Ronnel Sanchez.</h1>
-      <p>UI/UX Designer and Front-End Developer.</p>
+      <h2>UI/UX Designer and Front-End Developer.</h2>
     </div>
   </div>
 </template>

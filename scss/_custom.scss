@@ -12,8 +12,8 @@
   min-height: min-content;
 
   .welcome_content {
-    font-size: $h1-font-size;
-    p {
+    h2 {
+      font-weight: 400;
       color: $font-color-secondary;
     }
   }
@@ -29,8 +29,11 @@
 @include media-breakpoint-down(md) {
   .container_welcome {
     .welcome_content {
-      h1,p {
+      h1{
         font-size: 2rem;
+      }
+      h2 {
+        font-size: 1.5rem;        
       }
     }
   }

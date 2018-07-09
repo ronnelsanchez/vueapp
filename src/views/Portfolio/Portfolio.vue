@@ -24,7 +24,7 @@
       <b-row>
         <b-col>
           <h3>About the project</h3>
-          <p>In Trend Micro employee’s safeties, health and family are important to the company’s culture that whenever an employee needs time for there family or personal agenda Trend Micro’s allow them to take some leaves. But with the previous system there are always a delay when ever an employee’s file a leave of absent to inform and be approved by there manager. Specially to those who work remotely like sales and marketing connecting to VPN just to file a leave is hideous</p>
+          <p>In Trend Micro employee’s safety, health and family are important to the company’s culture that whenever an employee needs time for there family or personal agenda Trend Micro’s allow them to take some leaves. But with the previous system there are always a delay when ever an employee’s file a leave of absent to inform and be approved by there manager. Specially to those who work remotely like sales and marketing connecting to VPN just to file a leave is hideous</p>
           <p>My task is to design a new process that will make the filling of leave more accessible, easy and can be monitor both the employee and their manager.</p>
         </b-col>
       </b-row>
@@ -64,7 +64,7 @@
       </b-row>
     </section>
 
-    <section class="portfolio-bottom">
+    <section class="portfolio-referrence">
       <b-row>
         <b-col>
           <div>
@@ -103,6 +103,15 @@
               <li>Illustration</li>
             </ul>
           </div>
+        </b-col>
+      </b-row>
+    </section>
+    <section class="portfolio-bottom">
+      <b-row>
+        <b-col>
+          <b-link to="/">
+            View more project
+          </b-link>
         </b-col>
       </b-row>
     </section>
