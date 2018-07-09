@@ -7,7 +7,8 @@ export default {
   name: 'App'
 }
 </script>
-<style>
+
+<style lang="scss">
 
 @font-face {
   font-family: 'Devicon';
@@ -49,8 +50,7 @@ export default {
        url('assets/fonts/OpenSans/open-sans-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-</style>
-<style lang="scss">
+
   /*Import Main styles for this application*/
   @import './scss/style';
 </style>
