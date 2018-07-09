@@ -2,41 +2,41 @@
 
 @font-face {
 	font-family: 'Circular Std Book';
-	src: url('../src/assets/fonts/Circular/CircularStd-Book.eot');
-	src: url('../src/assets/fonts/Circular/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
-		url('../src/assets/fonts/Circular/CircularStd-Book.woff') format('woff'),
-		url('../src/assets/fonts/Circular/CircularStd-Book.ttf') format('truetype');
+	src: url('../static/fonts/Circular/CircularStd-Book.eot');
+	src: url('../static/fonts/Circular/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+		url('../static/fonts/Circular/CircularStd-Book.woff') format('woff'),
+		url('../static/fonts/Circular/CircularStd-Book.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
   font-family: 'Circular Std Book';
-	src: url('../src/assets/fonts/Circular/CircularStd-Bold.eot');
-	src: url('../src/assets/fonts/Circular/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
-		url('../src/assets/fonts/Circular/CircularStd-Bold.woff') format('woff'),
-		url('../src/assets/fonts/Circular/CircularStd-Bold.ttf') format('truetype');
+	src: url('../static/fonts/Circular/CircularStd-Bold.eot');
+	src: url('../static/fonts/Circular/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../static/fonts/Circular/CircularStd-Bold.woff') format('woff'),
+		url('../static/fonts/Circular/CircularStd-Bold.ttf') format('truetype');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
   font-family: 'Circular Std Book';
-	src: url('../src/assets/fonts/Circular/CircularStd-Black.eot');
-	src: url('../src/assets/fonts/Circular/CircularStd-Black.eot?#iefix') format('embedded-opentype'),
-		url('../src/assets/fonts/Circular/CircularStd-Black.woff') format('woff'),
-		url('../src/assets/fonts/Circular/CircularStd-Black.ttf') format('truetype');
+	src: url('../static/fonts/Circular/CircularStd-Black.eot');
+	src: url('../static/fonts/Circular/CircularStd-Black.eot?#iefix') format('embedded-opentype'),
+		url('../static/fonts/Circular/CircularStd-Black.woff') format('woff'),
+		url('../static/fonts/Circular/CircularStd-Black.ttf') format('truetype');
 	font-weight: 900;
 	font-style: normal;
 }
 
 @font-face {
   font-family: 'devicon';
-  src: url('../src/assets/fonts/Devicon/devicon.eot');
-  src: url('../src/assets/fonts/Devicon/devicon.eot') format("embedded-opentype"),
-			 url('../src/assets/fonts/Devicon/devicon.woff') format("woff"),
-			 url('../src/assets/fonts/Devicon/devicon.ttf') format("truetype"),
-			 url('../src/assets/fonts/Devicon/devicon.svg') format("svg");
+  src: url('../static/fonts/Devicon/devicon.eot');
+  src: url('../static/fonts/Devicon/devicon.eot') format("embedded-opentype"),
+			 url('../static/fonts/Devicon/devicon.woff') format("woff"),
+			 url('../static/fonts/Devicon/devicon.ttf') format("truetype"),
+			 url('../static/fonts/Devicon/devicon.svg') format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -48,8 +48,8 @@
   font-style: normal;
   font-weight: 300;
   src: local('Open Sans Light'), local('OpenSans-Light'),
-       url('../src/assets/fonts/OpenSans/open-sans-v15-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../src/assets/fonts/OpenSans/open-sans-v15-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../static/fonts/OpenSans/open-sans-v15-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../static/fonts/OpenSans/open-sans-v15-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* open-sans-regular - latin */
 @font-face {
@@ -57,8 +57,8 @@
   font-style: normal;
   font-weight: 400;
   src: local('Open Sans Regular'), local('OpenSans-Regular'),
-       url('../src/assets/fonts/OpenSans/open-sans-v15-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../src/assets/fonts/OpenSans/open-sans-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../static/fonts/OpenSans/open-sans-v15-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../static/fonts/OpenSans/open-sans-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* open-sans-700 - latin */
 @font-face {
@@ -66,6 +66,6 @@
   font-style: normal;
   font-weight: 700;
   src: local('Open Sans Bold'), local('OpenSans-Bold'),
-       url('../src/assets/fonts/OpenSans/open-sans-v15-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('../src/assets/fonts/OpenSans/open-sans-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('../static/fonts/OpenSans/open-sans-v15-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../static/fonts/OpenSans/open-sans-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
