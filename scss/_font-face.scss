@@ -31,12 +31,12 @@
 }
 
 @font-face {
-  font-family: 'devicon';
-  src: url('../static/fonts/Devicon/devicon.eot');
-  src: url('../static/fonts/Devicon/devicon.eot') format("embedded-opentype"),
-			 url('../static/fonts/Devicon/devicon.woff') format("woff"),
-			 url('../static/fonts/Devicon/devicon.ttf') format("truetype"),
-			 url('../static/fonts/Devicon/devicon.svg') format("svg");
+  font-family: 'Devicon';
+  src: url('./assets/fonts/Devicon/devicon.eot');
+  src: url('./assets/fonts/Devicon/devicon.eot') format("embedded-opentype"),
+			 url('./assets/fonts/Devicon/devicon.woff') format("woff"),
+			 url('./assets/fonts/Devicon/devicon.ttf') format("truetype"),
+			 url('./assets/fonts/Devicon/devicon.svg') format("svg");
   font-weight: normal;
   font-style: normal;
 }
