@@ -12,6 +12,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+$devicon-font: "devicon" !default;
+
+
 .devicon-safari-line-wordmark:before {
   content: "\e632";
 }
@@ -473,7 +476,7 @@
 }
 
 .devicon-photoshop-plain:before {
-  font-family: 'devicon';
+  font-family: $devicon-font;
   content: "\eb6d";
 }
 
