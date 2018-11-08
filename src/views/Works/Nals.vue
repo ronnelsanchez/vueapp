@@ -6,7 +6,7 @@
         <b-col md="8" offset-md="2">
           <img src="../../assets/projects/nals/NALS_android_splash.png" alt="" class="portfolio-icon">
           <h1>
-            Trend Micro - NALS
+            NALS - Trend Micro's leave system app
           </h1>
           <p>
             NALS or North America Leave System is an internal app of Trend Micro that helps employee to file a leave easily on their mobile device. It also have a monitoring list to track their filed leave if its approved or not.
@@ -101,6 +101,7 @@
               <li>UI/UX</li>
               <li>Product Design</li>
               <li>Illustration</li>
+              <li>Information Architecture</li>
             </ul>
           </div>
         </b-col>

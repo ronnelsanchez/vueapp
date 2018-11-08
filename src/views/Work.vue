@@ -6,50 +6,50 @@
 
   <b-row>
 
-    <router-link to="/portfolio" class="col-12 col-md-6 portfolio-item" tag="div">
+    <router-link to="/nals" class="col-12 col-md-6 portfolio-item" tag="div">
       <img src="../assets/projects/nals/nals-thumb.png" alt="">
-      <h4>Trend Micro - NALS</h4>
+      <h4>NALS - Trend Micro's leave system app</h4>
       <p>A mobile leave system app</p>
       <ul class="tags">
         <li>UI/UX</li>
         <li>Product Design</li>
         <li>App</li>
         <li>Illustration</li>
+        <li>Information Architecture</li>
       </ul>
     </router-link>
 
-    <b-col cols="12" md="6" class="portfolio-item">
-      <img src="https://cdn.dribbble.com/users/368135/screenshots/3840460/timelog.gif" alt="">
-      <h4>Title of the Project</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, debitis.</p>
+    <router-link to="/timelog" class="col-12 col-md-6 portfolio-item" tag="div">
+      <img src="../assets/projects/timelog/timelog.gif" alt="">
+      <h4>Timelog - Trend Micro PH office</h4>
+      <p>Redesigning the new Trend Micro Timelog</p>
       <ul class="tags">
         <li>UI/UX</li>
         <li>Front-End</li>
         <li>Illustration</li>
         <li>Web Design</li>
       </ul>
-    </b-col>
+    </router-link>
 
-    <b-col cols="12" md="6" class="portfolio-item">
-      <img src="https://cdn.dribbble.com/users/368135/screenshots/3954976/diy-tool-d.gif" alt="">
-      <h4>Title of the Project</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, debitis.</p>
+    <router-link to="/reformat" class="col-12 col-md-6 portfolio-item" tag="div">
+      <img src="../assets/projects/reformat/diy-tool-d.gif" alt="">
+      <h4>DIY Reformat Tool - Trend Micro PH</h4>
+      <p>Trend Micro's do it yourself reformating tool.</p>
       <ul class="tags">
         <li>UI/UX</li>
         <li>Product Design</li>
         <li>Illustration</li>
+        <li>Information Architecture</li>
       </ul>
-    </b-col>
+    </router-link>
 
     <b-col cols="12" md="6" class="portfolio-item">
-      <img src="https://cdn.dribbble.com/users/368135/screenshots/3840460/timelog.gif" alt="">
-      <h4>Title of the Project</h4>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, debitis.</p>
+      <img src="../assets/projects/icons/icon-thumb.png" alt="">
+      <h4>Icons, Logos and Illustrations</h4>
+      <p>Sets of icon, logos and illustration from various projects.</p>
       <ul class="tags">
-        <li>UI/UX</li>
-        <li>Front-End</li>
+        <li>Graphic Design</li>
         <li>Illustration</li>
-        <li>Web Design</li>
       </ul>
     </b-col>
 

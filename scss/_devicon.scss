@@ -309,8 +309,26 @@ $devicon-font: "devicon" !default;
   content: "\e678";
 }
 
+.devicon-css3-plain-wordmark {
+  &:hover {
+    &:before {
+      content: "\e678";
+      	color: #3d8fc6;
+    }
+  }
+}
+
 .devicon-css3-plain:before {
   content: "\e679";
+}
+
+.devicon-css3-plain {
+  &:hover {
+    &:before {
+      content: "\e679";
+      	color: #3d8fc6;
+    }
+  }
 }
 
 .devicon-debian-plain-wordmark:before {
@@ -385,8 +403,26 @@ $devicon-font: "devicon" !default;
   content: "\e7f6";
 }
 
+.devicon-html5-plain-wordmark {
+  &:hover {
+    &:before {
+      content: "\e7f6";
+      	color: #e54d26;
+    }
+  }
+}
+
 .devicon-html5-plain:before {
   content: "\e7f7";
+}
+
+.devicon-html5-plain {
+  &:hover {
+    &:before {
+      content: "\e7f7";
+      	color: #e54d26;
+    }
+  }
 }
 
 .devicon-ie10-original:before, .devicon-ie10-plain:before {

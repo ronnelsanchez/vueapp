@@ -22,7 +22,7 @@
             <li><b-link href="https://dribbble.com/ronnelsanchez">Dribbble</b-link></li>
             <li><b-link href="https://www.behance.net/ronnelsanchez">Behance</b-link></li>
             <li><b-link href="https://ph.linkedin.com/in/ronnelsanchez">Linkedin</b-link></li>
-            <li><b-link href="mailto:ronnel.sanchez@gmail.com">Contact</b-link></li>
+            <li><b-link @click="expand = !expand" :to="{ path: '/contact' }" exact>Contact</b-link></li>
           </ul>
         </div>
       </b-row>
