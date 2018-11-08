@@ -55,7 +55,6 @@
   }
   .portfolio-head {
     text-align: center;
-    padding-top: 4rem;
     .portfolio-icon {
       height: 100px;
       width: auto;
@@ -109,6 +108,20 @@
     margin-bottom: 0;
     a {
       color: $heading-color;
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  .portfolio-head {
+    padding-top: 4rem;
+  }
+}
+@include media-breakpoint-down(md) {
+  .portfolio-head {
+    padding-top: 2rem;
+    h1{
+      font-size: 2rem;
     }
   }
 }

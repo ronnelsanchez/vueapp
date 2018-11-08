@@ -17,14 +17,12 @@
   }
   .about-head {
     text-align: left;
-    padding-top: 4rem;
     margin-bottom: 8rem;
     h1 {
       margin: 0 0 2rem 0;
     }
     .about-photo {
       border-radius: .25rem;
-      background-image: url('/static/img/me.png');
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -51,6 +49,7 @@
 
 @include media-breakpoint-up(md) {
   .about-head {
+    padding-top: 4rem;
     .about-photo {
       height: 380px;
     }
@@ -58,12 +57,14 @@
 }
 @include media-breakpoint-down(md) {
   .about-head {
+    padding-top: 2rem;
     h1{
       font-size: 2rem;
     }
     .about-photo {
-      height: 300px;
-      margin-bottom: 2rem;
+      height: auto;
+      max-height: 380px;
+      margin-bottom: 3rem;
     }
   }
 }

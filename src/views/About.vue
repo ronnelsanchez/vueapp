@@ -4,7 +4,7 @@
     <section class="about-head">
       <b-row>
         <b-col md="5" class="order-md-last">
-          <div class="about-photo"></div>
+          <img class="about-photo" src="../assets/img/me.png" alt="">
         </b-col>
         <b-col md="7">
           <h1>

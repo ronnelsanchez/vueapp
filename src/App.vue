@@ -10,6 +10,5 @@ export default {
 
 <style lang="scss">
   /*Import Main styles for this application*/
-  $fa-font-path: '~font-awesome/fonts/';
   @import './scss/style';
 </style>

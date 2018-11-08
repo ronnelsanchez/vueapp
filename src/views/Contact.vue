@@ -13,13 +13,13 @@
           </a>
           <ul class="list-unstyled list list-icon">
             <li class="icon-skype">
-              <b class="mr-3">Skype</b><a href="skype:ronnel.sanchez_1?chat">ronnel.sanchez_1</a>
+              <b>Skype</b><a href="skype:ronnel.sanchez_1?chat">ronnel.sanchez_1</a>
             </li>
             <li class="icon-whatsapp">
-              <b class="mr-3">WhatsApp / Mobile</b><a href="https://api.whatsapp.com/send?phone=639272197146">+63 927 219 7146</a>
+              <b>WhatsApp / Mobile</b><a href="https://api.whatsapp.com/send?phone=639272197146">+63 927 219 7146</a>
             </li>
             <li class="icon-telegram">
-              <b class="mr-3">Telegram</b><a href="https://telegram.me/ronnelsanchez">@ronnelsanchez</a>
+              <b>Telegram</b><a href="https://telegram.me/ronnelsanchez">@ronnelsanchez</a>
             </li>
           </ul>
         </b-col>
@@ -32,10 +32,10 @@
           <h3>Portfolios</h3>
           <ul class="list-unstyled list list-icon">
             <li class="icon-dribbble">
-              <b class="mr-3">Dribbble</b><a href="https://dribbble.com/ronnelsanchez">https://dribbble.com/ronnelsanchez</a>
+              <b>Dribbble</b><a href="https://dribbble.com/ronnelsanchez">https://dribbble.com/ronnelsanchez</a>
             </li>
             <li class="icon-behance">
-              <b class="mr-3">Behance</b><a href="https://www.behance.net/ronnelsanchez">https://www.behance.net/ronnelsanchez</a>
+              <b>Behance</b><a href="https://www.behance.net/ronnelsanchez">https://www.behance.net/ronnelsanchez</a>
             </li>
           </ul>
         </b-col>
@@ -48,10 +48,10 @@
           <h3>Links</h3>
           <ul class="list-unstyled list list-icon">
             <li class="icon-linkedin">
-              <b class="mr-3">LinkedIn</b><a href="https://ph.linkedin.com/in/ronnelsanchez">https://ph.linkedin.com/in/ronnelsanchez</a>
+              <b>LinkedIn</b><a href="https://ph.linkedin.com/in/ronnelsanchez">https://ph.linkedin.com/in/ronnelsanchez</a>
             </li>
             <li class="icon-github">
-              <b class="mr-3">GitHub</b><a href="https://github.com/ronnelsanchez">https://github.com/ronnelsanchez</a>
+              <b>GitHub</b><a href="https://github.com/ronnelsanchez">https://github.com/ronnelsanchez</a>
             </li>
           </ul>
         </b-col>

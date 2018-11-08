@@ -31,10 +31,17 @@ main {
 
 .list-icon {
   li {
+    b {
+      display: inline-block;
+    }
+    a {
+      display: inline-block;
+      margin-left: 1.85rem;
+    }
     &:before {
       display: inline-block;
       width: 30px;
-      text-align: center;
+      text-align: left;
       font-family: FontAwesome;
     }
     &.icon-skype {

@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import BootstrapVue from 'bootstrap-vue'
+import 'font-awesome/css/font-awesome.min.css'
 
 Vue.use(BootstrapVue)
 
