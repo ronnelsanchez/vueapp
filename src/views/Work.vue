@@ -44,7 +44,9 @@
     </router-link>
 
     <b-col cols="12" md="6" class="portfolio-item">
-      <img src="../assets/projects/icons/icon-thumb.png" alt="">
+      <a href="https://dribbble.com/ronnelsanchez">
+        <img src="../assets/projects/icons/icon-thumb.png" alt="">
+      </a>
       <h4>Icons, Logos and Illustrations</h4>
       <p>Sets of icon, logos and illustration from various projects.</p>
       <ul class="tags">
